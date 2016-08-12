@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce8b1d1f-1112-4706-862b-1eb6f24f8c10" name="Default" comment="Second chapter complete, creating arrays">
+    <list default="true" id="ce8b1d1f-1112-4706-862b-1eb6f24f8c10" name="Default" comment="Second chapter complete, fun with directives">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AngularJS_Examples/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AngularJS_Examples/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AngularJS_Examples/AngularJS_ex1.html" afterPath="$PROJECT_DIR$/../AngularJS_Examples/AngularJS_ex1.html" />
     </list>
@@ -29,8 +29,8 @@
       <file leaf-file-name="AngularJS_ex1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../AngularJS_Examples/AngularJS_ex1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="622">
-              <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+            <state relative-caret-position="639">
+              <caret line="129" column="33" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -187,7 +187,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1470358407082</updated>
-      <workItem from="1470358408561" duration="7907000" />
+      <workItem from="1470358408561" duration="8064000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1470358871578</created>
@@ -273,11 +273,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470962164931</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Second chapter complete, fun with directives">
+      <created>1470964126281</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1470964126281</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7907000" />
+    <option name="totallyTimeSpent" value="8064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="954" y="0" width="973" height="1047" extended-state="0" />
@@ -345,7 +352,8 @@
     <MESSAGE value="Second chapter complete, using models to change CSS" />
     <MESSAGE value="Second chapter complete, using objects in angular" />
     <MESSAGE value="Second chapter complete, creating arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second chapter complete, creating arrays" />
+    <MESSAGE value="Second chapter complete, fun with directives" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second chapter complete, fun with directives" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -357,8 +365,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../AngularJS_Examples/AngularJS_ex1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        <state relative-caret-position="639">
+          <caret line="129" column="33" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="33" />
           <folding />
         </state>
       </provider>
