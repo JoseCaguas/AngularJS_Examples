@@ -171,5 +171,20 @@ app.directive("w3TestDirective", function() {
 </div>
 
 </body>-->
+<!--<body ng-app="myApp"> makes a new directive that creates HTML code that can
+be called by the directive name in the HTML document.
+
+<div w3-test-directive></div>  //this is where its called
+
+<script>
+    var app = angular.module("myApp", []);
+    app.directive("w3TestDirective", function() {
+        return {
+            template : "<h1>Made by a directive!</h1>" // this is the HTML code
+        };
+    });
+</script>
+
+</body>-->
 </html>
 
