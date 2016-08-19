@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce8b1d1f-1112-4706-862b-1eb6f24f8c10" name="Default" comment="Angular Directive Chapter, validating user input">
+    <list default="true" id="ce8b1d1f-1112-4706-862b-1eb6f24f8c10" name="Default" comment="Angular Directive Chapter, application status">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularJS_ex1.html" afterPath="$PROJECT_DIR$/AngularJS_ex1.html" />
     </list>
@@ -29,8 +29,8 @@
       <file leaf-file-name="AngularJS_ex1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AngularJS_ex1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="826">
-              <caret line="215" column="10" selection-start-line="215" selection-start-column="10" selection-end-line="215" selection-end-column="10" />
+            <state relative-caret-position="571">
+              <caret line="230" column="41" selection-start-line="230" selection-start-column="41" selection-end-line="230" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -195,7 +195,7 @@
       <updated>1470358407082</updated>
       <workItem from="1470358408561" duration="9379000" />
       <workItem from="1471562897788" duration="1606000" />
-      <workItem from="1471565746953" duration="777000" />
+      <workItem from="1471565746953" duration="1172000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1470358871578</created>
@@ -330,11 +330,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471566207666</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Angular Directive Chapter, application status">
+      <created>1471566561098</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1471566561098</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11762000" />
+    <option name="totallyTimeSpent" value="12157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="954" y="0" width="973" height="1047" extended-state="0" />
@@ -409,7 +416,8 @@
     <MESSAGE value="clean commit" />
     <MESSAGE value="Angular Directive Chapter, creating a new directive" />
     <MESSAGE value="Angular Directive Chapter, validating user input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Angular Directive Chapter, validating user input" />
+    <MESSAGE value="Angular Directive Chapter, application status" />
+    <option name="LAST_COMMIT_MESSAGE" value="Angular Directive Chapter, application status" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -437,8 +445,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AngularJS_ex1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="215" column="10" selection-start-line="215" selection-start-column="10" selection-end-line="215" selection-end-column="10" />
+        <state relative-caret-position="571">
+          <caret line="230" column="41" selection-start-line="230" selection-start-column="41" selection-end-line="230" selection-end-column="41" />
           <folding />
         </state>
       </provider>
